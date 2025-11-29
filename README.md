@@ -1,4 +1,4 @@
-# Retail-Analytics
+# Walmart-Sales-Analytics
 Walmart sales prediction with Linear Regression and Random Forests + Bayesian Structure Learning
 
 ## Dataset
@@ -85,3 +85,4 @@ To explore the Bayesian Structure of the dataset, it needs to be categorized in 
 * Pavlov, Y. L. (2000) ‘Random Forests’. doi: 10.1515/9783110941975.
 * Saeys, Y., Abeel, T. and Van de Peer, Y. (2008) ‘Robust Feature Selection Using Ensemble Feature Selection Techniques’, Machine Learning and Knowledge Discovery in Databases, pp. 313–325. doi: 10.1007/978-3-540-87481-2_21 .
 * Zhao, Y. and Zhang, Y. (2008) ‘Comparison of decision tree methods for finding active objects’, Advances in Space Research, pp. 1955–1959. doi: 10.1016/j.asr.2007.07.020.
+
